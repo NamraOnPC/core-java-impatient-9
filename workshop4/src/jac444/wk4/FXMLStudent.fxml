@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="jac444.wk4.FXMLStudentController">
+  <children>
+    <AnchorPane layoutX="62.0" layoutY="65.0" prefHeight="282.0" prefWidth="437.0">
+      <children>
+        <TextField fx:id="fileName" layoutX="119.0" layoutY="58.0" prefWidth="200.0" />
+        <Label layoutX="61.0" layoutY="60.0" text="File">
+         <font>
+            <Font size="14.0" fx:id="x1" />
+          </font>
+        </Label>
+        <Label font="$x1" layoutX="61.0" layoutY="90.0" text="Name" />
+        <Label font="$x1" layoutX="61.0" layoutY="123.0" text="Course" />
+        <Label font="$x1" layoutX="61.0" layoutY="158.0" text="Grade" />
+        <TextField fx:id="name" layoutX="119.0" layoutY="87.0" prefWidth="200.0" />
+        <TextField fx:id="course" layoutX="119.0" layoutY="120.0" prefWidth="200.0" />
+        <TextField fx:id="grade" layoutX="119.0" layoutY="155.0" prefWidth="200.0" />
+        <Button fx:id="load" font="$x1" layoutX="26.0" layoutY="198.0" mnemonicParsing="false" onAction="#loadTheStudent" text="Load" />
+        <Button fx:id="new2" font="$x1" layoutX="97.0" layoutY="198.0" mnemonicParsing="false" onAction="#newStudent" text="New" />
+        <Button fx:id="delete" font="$x1" layoutX="171.0" layoutY="198.0" mnemonicParsing="false" onAction="#removeTheStudent" text="Delete" />
+        <Button fx:id="edit" font="$x1" layoutX="254.0" layoutY="198.0" mnemonicParsing="false" onAction="#editTheStudent" text="Edit" />
+        <Button fx:id="save" font="$x1" layoutX="319.0" layoutY="198.0" mnemonicParsing="false" onAction="#saveTheStudent" text="Save" />
+        <Label fx:id="presenter" layoutX="61.0" layoutY="245.0" text="">
+          <font>
+            <Font size="20.0" />
+          </font>
+        </Label>
+      </children>
+    </AnchorPane>
+  </children>
+</AnchorPane>
