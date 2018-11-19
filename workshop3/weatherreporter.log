@@ -1,0 +1,3033 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T13:17:37</date>
+  <millis>1540833457765</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter</class>
+  <method>reportReadings</method>
+  <thread>1</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T13:17:37</date>
+  <millis>1540833457861</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter</class>
+  <method>reportReadings</method>
+  <thread>1</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:22:36</date>
+  <millis>1540866156266</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:22:36</date>
+  <millis>1540866156266</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:22:36</date>
+  <millis>1540866156319</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:22:36</date>
+  <millis>1540866156319</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:25:50</date>
+  <millis>1540866350099</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:25:50</date>
+  <millis>1540866350173</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:25:50</date>
+  <millis>1540866350198</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:25:50</date>
+  <millis>1540866350198</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:26:24</date>
+  <millis>1540866384519</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:26:24</date>
+  <millis>1540866384519</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:26:24</date>
+  <millis>1540866384569</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:26:24</date>
+  <millis>1540866384570</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:28:38</date>
+  <millis>1540866518606</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:28:38</date>
+  <millis>1540866518606</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:28:38</date>
+  <millis>1540866518658</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:28:38</date>
+  <millis>1540866518659</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:30:27</date>
+  <millis>1540866627711</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:30:27</date>
+  <millis>1540866627712</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:30:27</date>
+  <millis>1540866627761</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:30:27</date>
+  <millis>1540866627761</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:31:31</date>
+  <millis>1540866691493</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:31:31</date>
+  <millis>1540866691493</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:31:31</date>
+  <millis>1540866691545</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:31:31</date>
+  <millis>1540866691545</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:32:07</date>
+  <millis>1540866727959</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:32:07</date>
+  <millis>1540866727959</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:32:08</date>
+  <millis>1540866728010</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:32:08</date>
+  <millis>1540866728010</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:32:29</date>
+  <millis>1540866749114</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:32:29</date>
+  <millis>1540866749132</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:32:29</date>
+  <millis>1540866749168</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:32:29</date>
+  <millis>1540866749169</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:34:41</date>
+  <millis>1540866881406</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:34:41</date>
+  <millis>1540866881445</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:34:41</date>
+  <millis>1540866881464</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:34:41</date>
+  <millis>1540866881464</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:35:00</date>
+  <millis>1540866900703</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:00</date>
+  <millis>1540866900703</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:00</date>
+  <millis>1540866900757</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:00</date>
+  <millis>1540866900758</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:35:35</date>
+  <millis>1540866935825</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:35</date>
+  <millis>1540866935825</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:35</date>
+  <millis>1540866935883</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:35</date>
+  <millis>1540866935883</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:35:43</date>
+  <millis>1540866943043</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:43</date>
+  <millis>1540866943043</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:43</date>
+  <millis>1540866943101</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:43</date>
+  <millis>1540866943101</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:35:48</date>
+  <millis>1540866948236</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:48</date>
+  <millis>1540866948236</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:48</date>
+  <millis>1540866948290</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:48</date>
+  <millis>1540866948293</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:35:52</date>
+  <millis>1540866952877</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:52</date>
+  <millis>1540866952877</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:52</date>
+  <millis>1540866952927</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:52</date>
+  <millis>1540866952927</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:35:58</date>
+  <millis>1540866958190</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:58</date>
+  <millis>1540866958190</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:58</date>
+  <millis>1540866958241</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:35:58</date>
+  <millis>1540866958241</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:36:02</date>
+  <millis>1540866962849</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:02</date>
+  <millis>1540866962849</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:02</date>
+  <millis>1540866962900</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:02</date>
+  <millis>1540866962900</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:36:08</date>
+  <millis>1540866968672</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:08</date>
+  <millis>1540866968672</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:08</date>
+  <millis>1540866968726</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:08</date>
+  <millis>1540866968727</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:36:28</date>
+  <millis>1540866988732</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:28</date>
+  <millis>1540866988749</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:28</date>
+  <millis>1540866988747</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:28</date>
+  <millis>1540866988732</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:28</date>
+  <millis>1540866988801</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:28</date>
+  <millis>1540866988801</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:28</date>
+  <millis>1540866988804</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:36:28</date>
+  <millis>1540866988802</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:37:23</date>
+  <millis>1540867043037</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:23</date>
+  <millis>1540867043037</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:23</date>
+  <millis>1540867043037</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:23</date>
+  <millis>1540867043037</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:23</date>
+  <millis>1540867043096</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:23</date>
+  <millis>1540867043098</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:23</date>
+  <millis>1540867043100</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:23</date>
+  <millis>1540867043100</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:37:49</date>
+  <millis>1540867069748</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:49</date>
+  <millis>1540867069749</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:49</date>
+  <millis>1540867069748</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:49</date>
+  <millis>1540867069748</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:49</date>
+  <millis>1540867069800</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:49</date>
+  <millis>1540867069802</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:49</date>
+  <millis>1540867069806</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:37:49</date>
+  <millis>1540867069807</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:40:12</date>
+  <millis>1540867212960</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:12</date>
+  <millis>1540867212986</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:12</date>
+  <millis>1540867212986</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:12</date>
+  <millis>1540867212985</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:13</date>
+  <millis>1540867213018</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:13</date>
+  <millis>1540867213019</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:13</date>
+  <millis>1540867213020</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:13</date>
+  <millis>1540867213019</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:40:46</date>
+  <millis>1540867246796</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:46</date>
+  <millis>1540867246796</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:46</date>
+  <millis>1540867246796</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:46</date>
+  <millis>1540867246796</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:46</date>
+  <millis>1540867246852</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:46</date>
+  <millis>1540867246853</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:46</date>
+  <millis>1540867246856</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:40:46</date>
+  <millis>1540867246857</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:41:24</date>
+  <millis>1540867284995</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:41:24</date>
+  <millis>1540867284996</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:41:24</date>
+  <millis>1540867284996</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:41:24</date>
+  <millis>1540867284995</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:41:25</date>
+  <millis>1540867285051</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:41:25</date>
+  <millis>1540867285051</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:41:25</date>
+  <millis>1540867285071</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:41:25</date>
+  <millis>1540867285076</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:45:37</date>
+  <millis>1540867537575</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:45:37</date>
+  <millis>1540867537576</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:45:37</date>
+  <millis>1540867537575</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:45:37</date>
+  <millis>1540867537575</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:45:37</date>
+  <millis>1540867537652</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:45:37</date>
+  <millis>1540867537657</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:47:50</date>
+  <millis>1540867670759</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:47:50</date>
+  <millis>1540867670759</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:47:50</date>
+  <millis>1540867670759</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:47:50</date>
+  <millis>1540867670759</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:49:48</date>
+  <millis>1540867788609</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:49:48</date>
+  <millis>1540867788609</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:49:48</date>
+  <millis>1540867788641</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:49:48</date>
+  <millis>1540867788642</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:49:48</date>
+  <millis>1540867788662</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:51:36</date>
+  <millis>1540867896524</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:51:36</date>
+  <millis>1540867896524</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:51:36</date>
+  <millis>1540867896582</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:51:36</date>
+  <millis>1540867896584</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:51:36</date>
+  <millis>1540867896582</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:51:36</date>
+  <millis>1540867896582</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:54:42</date>
+  <millis>1540868082060</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:42</date>
+  <millis>1540868082061</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:42</date>
+  <millis>1540868082061</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:42</date>
+  <millis>1540868082060</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:42</date>
+  <millis>1540868082116</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:42</date>
+  <millis>1540868082116</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:42</date>
+  <millis>1540868082116</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:42</date>
+  <millis>1540868082119</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:54:54</date>
+  <millis>1540868094996</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:54</date>
+  <millis>1540868094996</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:54</date>
+  <millis>1540868094996</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:54</date>
+  <millis>1540868094996</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:55</date>
+  <millis>1540868095051</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:55</date>
+  <millis>1540868095052</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:55</date>
+  <millis>1540868095051</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:54:55</date>
+  <millis>1540868095054</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:55:13</date>
+  <millis>1540868113760</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:55:13</date>
+  <millis>1540868113760</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:55:13</date>
+  <millis>1540868113760</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:55:13</date>
+  <millis>1540868113760</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:55:13</date>
+  <millis>1540868113818</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:55:13</date>
+  <millis>1540868113818</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:55:13</date>
+  <millis>1540868113818</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:55:13</date>
+  <millis>1540868113818</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T22:56:14</date>
+  <millis>1540868174586</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:56:14</date>
+  <millis>1540868174617</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:56:14</date>
+  <millis>1540868174616</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:56:14</date>
+  <millis>1540868174586</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T22:56:14</date>
+  <millis>1540868174643</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:56:14</date>
+  <millis>1540868174644</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:56:14</date>
+  <millis>1540868174643</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T22:56:14</date>
+  <millis>1540868174643</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-29T23:53:58</date>
+  <millis>1540871638792</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T23:53:58</date>
+  <millis>1540871638818</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T23:53:58</date>
+  <millis>1540871638818</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T23:53:58</date>
+  <millis>1540871638817</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-29T23:53:58</date>
+  <millis>1540871638858</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T23:53:58</date>
+  <millis>1540871638858</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T23:53:58</date>
+  <millis>1540871638858</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-29T23:53:58</date>
+  <millis>1540871638859</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-30T00:06:29</date>
+  <millis>1540872389750</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T00:06:29</date>
+  <millis>1540872389750</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T00:06:29</date>
+  <millis>1540872389750</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T00:06:29</date>
+  <millis>1540872389750</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T00:06:29</date>
+  <millis>1540872389804</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T00:06:29</date>
+  <millis>1540872389804</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T00:06:29</date>
+  <millis>1540872389804</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T00:06:29</date>
+  <millis>1540872389804</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-30T12:22:18</date>
+  <millis>1540916538831</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T12:22:18</date>
+  <millis>1540916538860</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T12:22:18</date>
+  <millis>1540916538859</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T12:22:18</date>
+  <millis>1540916538831</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T12:22:18</date>
+  <millis>1540916538898</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T12:22:18</date>
+  <millis>1540916538898</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T12:22:18</date>
+  <millis>1540916538900</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T12:22:18</date>
+  <millis>1540916538898</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-30T21:00:40</date>
+  <millis>1540947640717</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T21:00:40</date>
+  <millis>1540947640735</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T21:00:40</date>
+  <millis>1540947640734</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T21:00:40</date>
+  <millis>1540947640717</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T21:00:40</date>
+  <millis>1540947640844</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T21:00:40</date>
+  <millis>1540947640845</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T21:00:40</date>
+  <millis>1540947640863</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T21:00:40</date>
+  <millis>1540947640893</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-30T21:07:05</date>
+  <millis>1540948025563</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T21:07:05</date>
+  <millis>1540948025563</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T21:07:05</date>
+  <millis>1540948025619</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T21:07:05</date>
+  <millis>1540948025620</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-10-30T21:07:05</date>
+  <millis>1540948025639</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T21:07:05</date>
+  <millis>1540948025639</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T21:07:05</date>
+  <millis>1540948025639</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-10-30T21:07:05</date>
+  <millis>1540948025639</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-05T11:51:50</date>
+  <millis>1541436710691</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:51:50</date>
+  <millis>1541436710702</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:51:50</date>
+  <millis>1541436710702</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:51:50</date>
+  <millis>1541436710691</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:51:50</date>
+  <millis>1541436710859</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:51:50</date>
+  <millis>1541436710859</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:51:50</date>
+  <millis>1541436710910</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:51:50</date>
+  <millis>1541436710997</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-05T11:52:08</date>
+  <millis>1541436728701</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:08</date>
+  <millis>1541436728702</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:08</date>
+  <millis>1541436728702</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:08</date>
+  <millis>1541436728701</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:08</date>
+  <millis>1541436728767</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:08</date>
+  <millis>1541436728767</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:08</date>
+  <millis>1541436728767</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:08</date>
+  <millis>1541436728768</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-05T11:52:16</date>
+  <millis>1541436736762</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:16</date>
+  <millis>1541436736762</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:16</date>
+  <millis>1541436736762</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:16</date>
+  <millis>1541436736762</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:16</date>
+  <millis>1541436736854</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:16</date>
+  <millis>1541436736854</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:16</date>
+  <millis>1541436736854</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:16</date>
+  <millis>1541436736855</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-05T11:52:31</date>
+  <millis>1541436751554</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:31</date>
+  <millis>1541436751555</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:31</date>
+  <millis>1541436751555</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:31</date>
+  <millis>1541436751554</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:31</date>
+  <millis>1541436751610</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:31</date>
+  <millis>1541436751610</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:31</date>
+  <millis>1541436751610</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:31</date>
+  <millis>1541436751610</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-05T11:52:38</date>
+  <millis>1541436758492</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:38</date>
+  <millis>1541436758493</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:38</date>
+  <millis>1541436758492</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:38</date>
+  <millis>1541436758492</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:38</date>
+  <millis>1541436758546</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:38</date>
+  <millis>1541436758546</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:38</date>
+  <millis>1541436758547</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:38</date>
+  <millis>1541436758546</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-11-05T11:52:41</date>
+  <millis>1541436761939</millis>
+  <sequence>0</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:41</date>
+  <millis>1541436761939</millis>
+  <sequence>3</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:41</date>
+  <millis>1541436761939</millis>
+  <sequence>2</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:41</date>
+  <millis>1541436761939</millis>
+  <sequence>1</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINEST</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>working!!</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:41</date>
+  <millis>1541436761994</millis>
+  <sequence>4</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>12</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:41</date>
+  <millis>1541436761994</millis>
+  <sequence>7</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:41</date>
+  <millis>1541436761994</millis>
+  <sequence>6</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>Successfully logged</message>
+</record>
+<record>
+  <date>2018-11-05T11:52:41</date>
+  <millis>1541436761994</millis>
+  <sequence>5</sequence>
+  <logger>jac444.wk3.WeatherReporter</logger>
+  <level>FINER</level>
+  <class>jac444.wk3.WeatherReporter$1</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>Successfully logged</message>
+</record>
+</log>

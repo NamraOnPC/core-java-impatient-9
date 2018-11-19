@@ -1,0 +1,8 @@
+time = 2013-13-02 04:13:59, temperature = 12°C, location = Paris
+time = 2013-13-01 03:13:49, temperature = 12°C, location = Toronto
+time = 2013-15-02 04:15:59, temperature = 35°C, location = Tokyo
+time = 2013-01-02 04:01:59, temperature = 12°C, location = New York City
+time = 2018-45-01 01:45:50, temperature = 1°C, location = Montreal
+time = 2018-40-03 01:40:50, temperature = 1°C, location = Dubai
+time = 2018-20-10 01:20:50, temperature = 1°C, location = Hong Kong
+time = 2018-35-03 06:35:04, temperature = 45°C, location = Mumbai
